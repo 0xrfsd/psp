@@ -1,4 +1,4 @@
-# psp
+# Payment Service Provider
 
 ## Contexto
 Em sua essência um PSP tem duas funções muito importantes:
