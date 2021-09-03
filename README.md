@@ -37,7 +37,7 @@ Nós iremos representar essas informações com duas entidades:
 1. O serviço deve ser escrito em Node.js
 2. O serviço deve armazenar informações em um banco de dados. Você pode escolher o banco que achar melhor. Nos utilizaremos MongoDB.
 
-### Obs 
-quando um cliente passa uma transação de crédito, ele normalmente recebe o valor em média apenas 30 dias depois (o que chamamos de D+30), porque é assim que a cadeia financeira (bancos, bandeiras, adquirentes) funciona. Porém é possível receber esse valor antes dos 30 dias através de um mecanismo chamado "antecipação".
+## Obs 
+Quando um cliente passa uma transação de crédito, ele normalmente recebe o valor em média apenas 30 dias depois (o que chamamos de D+30), porque é assim que a cadeia financeira (bancos, bandeiras, adquirentes) funciona. Porém é possível receber esse valor antes dos 30 dias através de um mecanismo chamado "antecipação".
 
 
